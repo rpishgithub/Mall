@@ -1,4 +1,4 @@
-package tech.rpish.mall.controller;
+package tech.rpish.mall.controller.test;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;

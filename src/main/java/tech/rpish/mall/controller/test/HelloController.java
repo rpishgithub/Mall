@@ -1,4 +1,4 @@
-package tech.rpish.mall.controller;
+package tech.rpish.mall.controller.test;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
